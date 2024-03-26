@@ -40,11 +40,11 @@
 * Oracle VM VirtualBox マネージャー の仮想マシンvm1から設定をクリック
 * ネットワーク設定で、割り当てを内部ネットワーク、名前をintnet1に設定し、OKをクリック
 
-![スクリーンショット 2023-09-25 002305.png](https://knowledge.mfro.net/files/65122eaf65e2080d0a24f30d)
+![スクリーンショット 2023-09-25 002305.png](https://raw.githubusercontent.com/JinKanekama/article/main/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2023-09-25_002305.png)
 * vm2のネットワーク設定も同様に、割り当てを内部ネットワーク、名前をinet1に設定する。この時、VM間で同じアダプターを利用します。
 
 ### 3. 疎通確認
 vm1からvm2への接続ができること、vm1からgoogle.comへの接続ができないことを確認します。
-![スクリーンショット 2023-09-25 005226.png](https://knowledge.mfro.net/files/65122f1c65e2080d0a24f30e)
+![スクリーンショット 2023-09-25 005226.png](https://github.com/JinKanekama/article/blob/main/images/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2023-09-25_005226.png)
 
 
