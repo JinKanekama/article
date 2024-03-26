@@ -18,7 +18,7 @@ DNSサーバへ問い合わせをし、ドメインに紐づくIPアドレスを
 DNSサーバにはフルリゾルバ、権威サーバがあります。
 
 ## DNSの仕組み
-DNSの仕組みを図にまとめました。
+DNSの仕組みを図にまとめました。  
 ![dns-system.jpg](https://raw.githubusercontent.com/JinKanekama/article/main/images/dns_system.jpg)
 <br>
 スタブリゾルバ、フルリゾルバ、権威サーバの役割を整理します。
